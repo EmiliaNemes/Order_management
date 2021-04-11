@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.bll.validators"},{"l":"org.businessLayer"},{"l":"org.connection"},{"l":"org.dataAccessLayer"},{"l":"org.example"},{"l":"org.main"},{"l":"org.model"},{"l":"org.presentation"}]
